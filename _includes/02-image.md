@@ -2,3 +2,4 @@
 ![Image of Sarah](https://raw.githubusercontent.com/SarahMalykke/markdown-portfolio/main/_includes/Malykke.jpg)
 ![Image of Sarah](https://raw.githubusercontent.com/SarahMalykke/markdown-portfolio/add-images-links/_includes/Malykke.jpg)
 ![Image of Sarah](https://raw.githubusercontent.com/SarahMalykke/markdown-portfolio/main/_includes/Malykke.JPG)
+![Image of Sarah](https://raw.githubusercontent.com/SarahMalykke/markdown-portfolio/main/_includes/Malykke.JPG)
