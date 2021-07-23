@@ -1,3 +1,3 @@
-*napping 😄
-*eating 🧁
-*sleeping 😴
+- napping 😄
+- eating 🧁
+- sleeping 😴
